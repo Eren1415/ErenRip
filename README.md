@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Dıscord: Er3n#3368
 
-- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codebankhub.blogspot.com)    ![Discord](ghttps://raw.githubusercontent.com/ErenRip/svglinks/e78c0924c3099ce2d502a1344df737b534cec735/discord-join%20(1).svg)
+- [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codehubcommunity.blogspot.com)    
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=ErenRip&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenRip&layout=compact)](https://github.com/ErenRip/github-readme-stats)
+[![Blogger Badge](https://github.com/ErenRip/svglinks/blob/main/discord-join%20(1).svg)](https://discord.gg/V3ctrxw4V2)
 
 
 
