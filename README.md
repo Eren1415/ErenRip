@@ -1,4 +1,4 @@
-![picture alt]( https://media.giphy.com/media/X8MfMyLnbL6KC3FvgL/giphy.gif "Title is optional")
+![picture alt]( https://media.giphy.com/media/HoIrPgqTBiB2XvVEf7/giphy.gif "Title is optional")
 
 - 👋 Hi, I’m @ErenRip
 - 👀 I’m interested in :  software, Graphic design and Video edit
