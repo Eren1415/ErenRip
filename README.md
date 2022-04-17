@@ -25,10 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenrip&show_icons=true&locale=en" alt="erenrip" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenrip&" alt="erenrip" /></p>
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenrip" alt="erenrip" /></a> </p>
 
