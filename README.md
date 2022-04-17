@@ -1,4 +1,7 @@
 ![picture alt]( https://media.giphy.com/media/HoIrPgqTBiB2XvVEf7/giphy.gif "Title is optional")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erenrip&label=Profile%20views&color=0e75b6&style=flat" alt="erenrip" /> </p>
+
+
 
 - 👋 Hi, I’m @ErenRip
 - 👀 I’m interested in :  software, Graphic design and Video edit
@@ -8,7 +11,7 @@
 
 - [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codehubcommunity.blogspot.com)    
 
-[![Blogger Badge](https://github.com/ErenRip/svglinks/blob/main/discord-join%20(1).svg)](https://discord.gg/V3ctrxw4V2)
+
 
 
 
@@ -16,3 +19,16 @@
 ErenRip/ErenRip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenrip&show_icons=true&locale=en&layout=compact" alt="erenrip" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenrip&show_icons=true&locale=en" alt="erenrip" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenrip&" alt="erenrip" /></p>
+
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenrip" alt="erenrip" /></a> </p>
+
