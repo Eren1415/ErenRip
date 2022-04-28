@@ -12,17 +12,9 @@
 - [![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=https://codebankhub.blogspot.com)](https://codehubcommunity.blogspot.com)    
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenrip&hide=javascript,css,scss,html&theme=tokyonight)
 
 
-
-<!---
-ErenRip/ErenRip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenrip&show_icons=true&locale=en&layout=compact" alt="erenrip" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenrip&show_icons=true&locale=en" alt="erenrip" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erenrip&theme=github_dark&show_icons=true)
 
 
