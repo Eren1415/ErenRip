@@ -16,10 +16,11 @@
 Software Language| The Game Engine | Operating system
 | :---: | :---: | :---:
 Arduino (c++)  | Unreal Engine 4 and higher | Windows 10 Pro
-C# Console  | BluePrint | Windows 11
+C# Console  | BluePrint | Windows 11 dev
 C# OBP      |           | Kali Linux
 Python      |           | Pardus
 Html-Css    |           |
+Java        |Android St |
 
    
 
